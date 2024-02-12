@@ -1,7 +1,7 @@
 inal Build (v0.1.0)
 
 Gym-Manager
-Fitness centre management system made by Kaushike Ramanathan, Amrit Nigam Nigameshwar Sugyani Subudhi Patra & Shourya Hedaoo 
+Fitness centre management system made by Kaushike Ramanathan, Amrit Nigam & Shourya Hedaoo 
 for CS Ivestigatory Project for the academic year 2022-2023
 
 
